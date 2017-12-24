@@ -1,0 +1,107 @@
+<resources>
+
+    <string name="app_name">Çoklu Zeka Kuramı Değerlendirme Ölçeğine Hoş Geldiniz ! :)</string>
+    <string name="sample_question">Sample Question</string>
+    <string name="evet">Evet</string>
+    <string name="hayir">Hayır</string>
+    <string name="ileri">İleri</string>
+    <string name="geri">Geri</string>
+    <string name="cikis">Çıkış</string>
+    <string name="txtCevap">Cevap Puanı : </string>
+    <string name="anketSonuc">Anket Sonucunu Öğren :)</string>
+    <string name="yeniAnket">Yeni Anket</string>
+    <string name="txtAciklama">NOT :Çoklu Zeka Kuramı Anketine Başlamak için Lütfen Sağ-Ok Butonuna Basınız !
+         Tüm Sorulara 0-4 arasında puan veriniz !</string>
+        
+    
+    <string name="question_sozel_1">Resimlerden çok yazılar dikkatimi çeker.</string>
+    <string name="question_sozel_2">İsimler,yerler,tarihler konusunda belleğim iyidir.</string>
+    <string name="question_sozel_3">Kitap okumayı severim.</string>
+    <string name="question_sozel_4">Kelimeleri doğru şekilde telaffuz ederim.</string>
+    <string name="question_sozel_5">Bilmecelerden,kelime oyunlarından hoşlanırım.</string>
+    <string name="question_sozel_6">Dinleyerek daha iyi öğrenirim.</string>
+    <string name="question_sozel_7">Yaşıma göre kelime hazinem iyidir.</string>
+    <string name="question_sozel_8">Yazı yazmaktan hoşlanırım.</string>
+    <string name="question_sozel_9">Öğrendiğim yeni kelimeleri kullanmayı severim.</string>
+    <string name="question_sozel_10">Sözel tartışmalarda başarılıyımdır.</string>
+    
+    <string name="question_sayisal_1">Makinelerin nasıl çalıştığına dair sorular sorarım.</string>
+    <string name="question_sayisal_2">Aritmatik problemleri kafadan hesaplarım.</string>
+    <string name="question_sayisal_3">Matematik ve fen derslerinden hoşlanırım.</string>
+    <string name="question_sayisal_4">Satranç ve benzeri strateji oyunları severim.</string>
+    <string name="question_sayisal_5">Mantık bulmacalarını,beyin jimnastiğini severim.</string>
+    <string name="question_sayisal_6">Bilgisayarda oyunlardan çok hoşlanırım.</string>
+    <string name="question_sayisal_7">Deneylerden, yeni denemeler yapmaktan hoşlanırım.</string>
+    <string name="question_sayisal_8">Arkadaşlarıma oranla daha soyut düşünebilirim.</string>
+    <string name="question_sayisal_9">Matematik oyunlarından hoşlanırım.</string>
+    <string name="question_sayisal_10">Sebep-sonuç ilişkilerini kurmaktan zevk alırım.</string>
+    
+    <string name="question_gorsel_1">Renklere karşı çok duyarlıyımdır.</string>
+    <string name="question_gorsel_2">Harita, tablo türü materyalleri daha kolay algılarım.</string>
+    <string name="question_gorsel_3">Arkadaşlarıma oranla daha fazla hayal kurarım.</string>
+    <string name="question_gorsel_4">Resim yapmayı ve boyamayı çok severim.</string>
+    <string name="question_gorsel_5">Yap-boz, lego gibi oyunlardan hoşlanırım.</string>
+    <string name="question_gorsel_6">Daha önce gittiğim yerleri kolayca hatırlarım.</string>
+    <string name="question_gorsel_7">Bulmaca çözmekten hoşlanırım.</string>
+    <string name="question_gorsel_8">Rüyalarımı çok net ve ayrıntılarıyla hatırlarım.</string>
+    <string name="question_gorsel_9">Resimli kitapları daha çok severim.</string>
+    <string name="question_gorsel_10">Kitaplarıma, defterlerime diğer materyalleri çizerim.</string>
+    
+    <string name="question_ritmik_1">Şarkıların melodilerini rahatlıkla hatırlarım.</string>
+    <string name="question_ritmik_2">Güzel şarkı söylerim.</string>
+    <string name="question_ritmik_3">Müzik aleti çalar ya da çalmayı çok isterim.</string>
+    <string name="question_ritmik_4">Müzik dersini çok severim.</string>
+    <string name="question_ritmik_5">Ritmik konuşur ya da hareket ederim.</string>
+    <string name="question_ritmik_6">Farkında olmadan mırıldanırım.</string>
+    <string name="question_ritmik_7">Çalışırken elimle ya da ayağımla ritim tutarım.</string>
+    <string name="question_ritmik_8">Çevredeki sesler çok dikkatimi çeker.</string>
+    <string name="question_ritmik_9">Çalışırken müzik dinlemek çok hoşuma gider.</string>
+    <string name="question_ritmik_10">Öğrendiğim şarkıları paylaşmayı severim.</string>
+    
+    <string name="question_dogaci_1">Hayvanlara karşı çok meraklıyımdır.</string>
+    <string name="question_dogaci_2">Doğaya karşı duyarsız olanlara kızarım.</string>
+    <string name="question_dogaci_3">Evde hayvan besler ya da beslemeyi çok severim.</string>
+    <string name="question_dogaci_4">Bahçede toprakla,bitkilerle oynamayı çok severim.</string>
+    <string name="question_dogaci_5">Bitki yetiştirmeyi severim.</string>
+    <string name="question_dogaci_6">Çevre kirliliğine karşı çok duyarlıyımdır.</string>
+    <string name="question_dogaci_7">Bitki ya da hayvanlarla ilgili belgesellere ilgi duyarım.</string>
+    <string name="question_dogaci_8">Mevsimlerle ve iklim olaylarıyla çok ilgiliyimdir.</string>
+    <string name="question_dogaci_9">Değişik meyve ve sebzelere karşı ilgiliyimdir.</string>
+    <string name="question_dogaci_10">Doğa olaylarıyla çok ilgiliyimdir.</string>
+    
+    <string name="question_sosyal_1">Arkadaşlarımla oyun oynamaktan hoşlanırım.</string>
+    <string name="question_sosyal_2">Çevremde bir lider olarak görülürüm.</string>
+    <string name="question_sosyal_3">Problemi olan arkadaşlarıma öğütler veririm.</string>
+    <string name="question_sosyal_4">Arkadaşlarım fikirlerime değer verir.</string>
+    <string name="question_sosyal_5">Organizasyonların vazgeçilmez elemanıyımdır.</string>
+    <string name="question_sosyal_6">Arkadaşlarıma bir şeyler anlatmaktan çok hoşlanırım.</string>
+    <string name="question_sosyal_7">Arkadaşlarımı sık sık ararım.</string>
+    <string name="question_sosyal_8">Arkadaşlarımın sorunlarına yardımcı olmaktan hoşlanırım.</string>
+    <string name="question_sosyal_9">Çevremdekiler benimle arkadaşlık kurmak ister.</string>
+    <string name="question_sosyal_10">İnsanlara selam verir, hatır sorarım.</string>
+    
+    <string name="question_kinestetik_1">Koşmayı, atlamayı ve güreşmeyi çok severim.</string>
+    <string name="question_kinestetik_2">Oturduğum yerde duramam, kımıldanırım.</string>
+    <string name="question_kinestetik_3">Düşüncelerimi mimik-davranışlarla rahat ifade ederim.</string>
+    <string name="question_kinestetik_4">Bir şeyi okumak yerine yaparak öğrenmeyi severim.</string>
+    <string name="question_kinestetik_5">Merak ettiğim şeyleri elime alarak incelemek isterim.</string>
+    <string name="question_kinestetik_6">Boş vakitlerimi dışarıda geçirmek isterim.</string>
+    <string name="question_kinestetik_7">Arkadaşlarımla fiziksel oyunlar oynamayı severim.</string>
+    <string name="question_kinestetik_8">El becerilerim gelişmiştir.</string>
+    <string name="question_kinestetik_9">Sorunlarımı anlatırken vücut hareketlerini kullanırım.</string>
+    <string name="question_kinestetik_10">İnsanlara ve eşyalara dokunmaktan hoşlanırım.</string>
+    
+    <string name="question_iceDonuk_1">Bağımsız olmayı severim.</string>
+    <string name="question_iceDonuk_2">Güçlü ve zayıf yanlarımı severim.</string>
+    <string name="question_iceDonuk_3">Yalnız çalışmayı daha çok severim.</string>
+    <string name="question_iceDonuk_4">Yalnız oynamayı severim.</string>
+    <string name="question_iceDonuk_5">Yaptığım işleri arkadaşlarımla paylaşmayı severim.</string>
+    <string name="question_iceDonuk_6">Yaptığım işlerin bilincindeyimdir.</string>
+    <string name="question_iceDonuk_7">Pek kimseye akıl danışmam.</string>
+    <string name="question_iceDonuk_8">Kendime saygım yüksektir.</string>
+    <string name="question_iceDonuk_9">Yoğun olarak uğraştığı bir ilgi alanı, hobim vardır.</string>
+    <string name="question_iceDonuk_10">Yardım istemeden kendi başıma ürünleri ortaya koyarım.</string>
+
+	<string name="question_son">Anketi tamamladınız. Zeka türünüzü öğrenmek için aşağıdaki butona tıklayınız!</string>
+    
+</resources>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/education"
+     >
+
+	<TextView 
+	 android:id="@+id/txtAciklama"
+   	 android:layout_width="fill_parent"
+   	 android:layout_height="70dp"
+   	 android:text="@string/txtAciklama" 
+   	 android:textSize="22dp"
+   	 android:gravity="center_vertical"
+   	 android:textColor="@android:color/holo_blue_dark"
+   	 android:textStyle="bold"
+   	   />
+	
+	<TextView 
+	 android:id="@+id/txtBosluk"
+   	 android:layout_width="wrap_content"
+   	 android:layout_height="50dp" />
+    
+    <TextView
+        android:id="@+id/txtSorular"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:textSize="20dp"
+	    android:textColor="@android:color/black"
+	    android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+
+			<TextView 
+			 android:id="@+id/txtCevap"
+           	 android:layout_width="wrap_content"
+           	 android:layout_height="wrap_content" 
+           	 android:text="@string/txtCevap"
+           	 android:textSize="20dp"
+ 			 android:textColor="@android:color/black"
+ 			 android:textStyle="bold"
+           	  />
+
+			<EditText
+			 android:id="@+id/editCevap"
+           	 android:layout_width="150dp"
+           	 android:layout_height="wrap_content"
+           	 android:inputType="numberDecimal"
+           	 android:maxLength="1"
+           	 android:textSize="20dp"
+ 			 android:textColor="@android:color/black"
+ 			 android:textStyle="bold" />
+			
+			<TextView 
+			 android:id="@+id/txtBosluk2"
+           	 android:layout_width="wrap_content"
+           	 android:layout_height="50dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/btnGeri"
+            android:layout_width="150dp"
+            android:layout_height="90dp"
+            android:contentDescription="@string/geri"
+            android:src="@drawable/arrow_left3"
+            android:layout_marginRight="50dp"
+            android:background="@null" />
+
+        <ImageButton
+            android:id="@+id/btnIleri"
+            android:layout_width="150dp"
+            android:layout_height="90dp"
+            android:contentDescription="@string/ileri"
+            android:src="@drawable/arrow_right3"
+            android:layout_marginLeft="50dp"
+            android:background="@null" />
+    </LinearLayout>
+    
+    <TextView 
+	    android:id="@+id/txtBosluk3"
+     	android:layout_width="wrap_content"
+        android:layout_height="20dp"  />
+
+    <Button
+        android:id="@+id/anketSonuc"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:text="@string/anketSonuc"
+        android:textStyle="bold" />
+    
+    <Button
+        android:id="@+id/yeniAnket"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:text="@string/yeniAnket"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+
+</LinearLayout>
